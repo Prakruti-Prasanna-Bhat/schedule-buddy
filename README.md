@@ -37,4 +37,5 @@
   - Trello Token
   - Trello Board Name
   - Trello Board URL
+  - Weather API Key
 - **Example KEY.txt**
