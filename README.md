@@ -28,4 +28,13 @@
 - trello  
 - requests  
 - pandas  
-- llama-index  
+- llama-index
+
+## API Keys
+- **You’ll need a KEY.txt file (not included in repo). Each line should contain:**
+  - Google Generative AI API Key
+  - Trello API Key
+  - Trello Token
+  - Trello Board Name
+  - Trello Board URL
+- **Example KEY.txt**
