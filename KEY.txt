@@ -3,3 +3,4 @@ your_trello_api_key
 your_trello_token
 Schedule Buddy
 https://trello.com/b/xxxxxxx/schedule-buddy
+your_weather_api_key
